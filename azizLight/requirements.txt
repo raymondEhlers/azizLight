@@ -1,0 +1,10 @@
+# Flask
+flask
+flask_restful
+
+# For controlling LEDs
+limitlessled
+
+# Yaml
+pyyaml
+ruamel.yaml<=0.15
